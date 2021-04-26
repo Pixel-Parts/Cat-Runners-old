@@ -1,0 +1,1057 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.962; Version 2009; 64bit' Language: 'de' Physical Memory: 16270 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/platt/Cat Runners
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+58431
+Successfully changed project path to: C:/Users/platt/Cat Runners
+C:/Users/platt/Cat Runners
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/platt/Cat Runners/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   
+    VRAM:     2048 MB
+    Driver:   20.19.15.4835
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.004034 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 46.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.517 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001500 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.256 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1859 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 2.507500 ms (FindLiveObjects: 0.300200 ms CreateObjectMapping: 0.197100 ms MarkObjects: 1.934800 ms  DeleteObjects: 0.074400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Endless.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Endless.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf599e0320f915194d3b9322a9dce486') in 0.040601 seconds
+  Import took 0.044756 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.12 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.2 MB.
+System memory in use after: 49.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2308.
+Total: 3.265400 ms (FindLiveObjects: 0.201600 ms CreateObjectMapping: 0.239700 ms MarkObjects: 2.804900 ms  DeleteObjects: 0.018000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5681.691751 seconds.
+  path: Assets/Assets/Bad Dog (Run1)-1.png.png
+  artifactKey: Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run1)-1.png.png using Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219fb361f7d880d8ac3eb90ab57540d1') in 0.277724 seconds
+  Import took 0.288899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.863149 seconds.
+  path: Assets/Assets/Bad Dog (Run2)-1.png.png
+  artifactKey: Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run2)-1.png.png using Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234fb5cf882a8448402e4affb9677ed7') in 0.070117 seconds
+  Import took 0.082680 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.779922 seconds.
+  path: Assets/Assets/Bad Dog (Run3)-1.png.png
+  artifactKey: Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run3)-1.png.png using Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27578445c3a54c97bb23b30b39d3c171') in 0.073539 seconds
+  Import took 0.086906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.912120 seconds.
+  path: Assets/Assets/Bad Dog (Run4)-1.png.png
+  artifactKey: Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run4)-1.png.png using Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a099851199ef6d3b130a7ca50355608') in 0.070966 seconds
+  Import took 0.079337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.432810 seconds.
+  path: Assets/Assets/Bad Dog (Run5)-1.png.png
+  artifactKey: Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run5)-1.png.png using Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a940bb8a699e9edb8ab898029fc235ca') in 0.056903 seconds
+  Import took 0.065357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.686016 seconds.
+  path: Assets/Assets/Old/Cat (Run1) (old).png
+  artifactKey: Guid(d32ce587a3b0cfa4aa24b8726af94abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Cat (Run1) (old).png using Guid(d32ce587a3b0cfa4aa24b8726af94abf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d71d4f1349cdb0fb67e2a0210fa01d') in 0.047134 seconds
+  Import took 0.052751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Assets/Old/Cat (Run3) (old).png
+  artifactKey: Guid(e51f78e8d345eb04f96f5ac791bc1f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Cat (Run3) (old).png using Guid(e51f78e8d345eb04f96f5ac791bc1f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '538a3e8a9069c013d83ca3797584b3fe') in 0.059971 seconds
+  Import took 0.064340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Assets/Old/Cat (Run2) (old).png
+  artifactKey: Guid(6355f0121dc451743bdbd9a4dff55a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Cat (Run2) (old).png using Guid(6355f0121dc451743bdbd9a4dff55a25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33c39ac775eda187568c3fb59b3ef22d') in 0.063016 seconds
+  Import took 0.067283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Assets/Old/Cat (Run4) (old).png
+  artifactKey: Guid(bdbac50c052f7d444abed6d7b60f4aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Cat (Run4) (old).png using Guid(bdbac50c052f7d444abed6d7b60f4aec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e78b8b7d449d2187db3161a8f7e240c7') in 0.059392 seconds
+  Import took 0.067271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.524370 seconds.
+  path: Assets/Assets/Unused
+  artifactKey: Guid(331b58f720e688944a4e6e85cce431af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Unused using Guid(331b58f720e688944a4e6e85cce431af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7f30633a78d6aeea8bc7233b006a59') in 0.036443 seconds
+  Import took 0.043371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036914 seconds.
+  path: Assets/Assets/Unused/Test Button.png
+  artifactKey: Guid(742eeb6c32a239a4da33d230a1703ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Unused/Test Button.png using Guid(742eeb6c32a239a4da33d230a1703ae4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f8d5ddb9c3931e8250af8827807c562') in 0.066019 seconds
+  Import took 0.073554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Assets/Unused/Test Logo.png
+  artifactKey: Guid(bcae2c224c3338d4f8c38df298f0d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Unused/Test Logo.png using Guid(bcae2c224c3338d4f8c38df298f0d3ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd17a0b880fe72f79b3acefd57e8ab2d4') in 0.071294 seconds
+  Import took 0.075994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.918673 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run1) (old).png
+  artifactKey: Guid(2d64a564841a09941807748de1c6ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run1) (old).png using Guid(2d64a564841a09941807748de1c6ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567c46fb454b8c3e4b6ae2aa5db4d9a2') in 0.052772 seconds
+  Import took 0.058534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.852919 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run2) (old).png
+  artifactKey: Guid(33e378656be80e7409048b5f92c93281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run2) (old).png using Guid(33e378656be80e7409048b5f92c93281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3be2d5811a59ff6553a1635bc917e480') in 0.051414 seconds
+  Import took 0.056387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.883338 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run3) (old).png
+  artifactKey: Guid(1898bd397720c374aaff681704032ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run3) (old).png using Guid(1898bd397720c374aaff681704032ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07be526c623c2e7013a18f75fe82493f') in 0.054692 seconds
+  Import took 0.063512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.388187 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run4) (old).png
+  artifactKey: Guid(385dafd23f000c041bffab1b54eac903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run4) (old).png using Guid(385dafd23f000c041bffab1b54eac903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '422266ef70b7c2937d609e4132d573a9') in 0.054260 seconds
+  Import took 0.059659 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.831820 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run5) (old).png
+  artifactKey: Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run5) (old).png using Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9357f2deb9f3589f115dffd1178b0259') in 0.042892 seconds
+  Import took 0.060046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 846.138664 seconds.
+  path: Assets/Assets/Unused/Box-1.png.png
+  artifactKey: Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Unused/Box-1.png.png using Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6394cfaa2c6a6db705ce8fdfae6428') in 0.048146 seconds
+  Import took 0.057740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.837561 seconds.
+  path: Assets/Assets/Foreground-1.png.png
+  artifactKey: Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Foreground-1.png.png using Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f1fe4c74caf475514b6c85baf7729c7') in 0.065656 seconds
+  Import took 0.073815 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.341795 seconds.
+  path: Assets/Assets/Background-1.png.png
+  artifactKey: Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Background-1.png.png using Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e343480161dc1554ffd4efb93584ff99') in 0.080925 seconds
+  Import took 0.089786 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.905379 seconds.
+  path: Assets/Assets/Dog (Good)-1.png.png
+  artifactKey: Guid(096dca37a8b8fa649b665b79fadbedec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Dog (Good)-1.png.png using Guid(096dca37a8b8fa649b665b79fadbedec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc09e49f3329db3c8bba4331dd56a6da') in 0.057313 seconds
+  Import took 0.065074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.170074 seconds.
+  path: Assets/Assets/Unused/Dog (Good).png
+  artifactKey: Guid(096dca37a8b8fa649b665b79fadbedec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Unused/Dog (Good).png using Guid(096dca37a8b8fa649b665b79fadbedec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c3ab18bbd6aed0889c8c82f7b95ac92') in 0.047772 seconds
+  Import took 0.051965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.702188 seconds.
+  path: Assets/Assets/Box.png
+  artifactKey: Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Box.png using Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15f9f3d59b4f5a9959d1c7448371c400') in 0.028379 seconds
+  Import took 0.033939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.282106 seconds.
+  path: Assets/Assets/Bad Dog (Run5).png
+  artifactKey: Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run5).png using Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d8e0cef15964dece0677459b203b22a') in 0.049417 seconds
+  Import took 0.054647 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.676425 seconds.
+  path: Assets/Assets/Bad Dog (Run1).png
+  artifactKey: Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run1).png using Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a7313812aceb66da55ce8f45ba1402') in 0.049227 seconds
+  Import took 0.054097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.703469 seconds.
+  path: Assets/Assets/Bad Dog (Run2).png
+  artifactKey: Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run2).png using Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '352fa9fc17e8ed86433643d904447869') in 0.044806 seconds
+  Import took 0.050479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.115748 seconds.
+  path: Assets/Assets/Bad Dog (Run3).png
+  artifactKey: Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run3).png using Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27fe8ab9a5bec60367ca2e2d49bf1fbe') in 0.051517 seconds
+  Import took 0.058299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.793467 seconds.
+  path: Assets/Assets/Bad Dog (Run4).png
+  artifactKey: Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run4).png using Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd386bcb6fdf5e613f30540c7a3aa126d') in 0.048773 seconds
+  Import took 0.053239 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.352105 seconds.
+  path: Assets/Assets/Background.png
+  artifactKey: Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Background.png using Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7377de4240bad3217b92253daa3ab971') in 0.049140 seconds
+  Import took 0.054155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.166546 seconds.
+  path: Assets/Assets/Cat (Run1).png
+  artifactKey: Guid(b0cb512519d57c04ca250af227b0d07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Cat (Run1).png using Guid(b0cb512519d57c04ca250af227b0d07b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75fcfd5ee90b3779b76b8df01bccc18f') in 0.049901 seconds
+  Import took 0.056391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.065235 seconds.
+  path: Assets/Assets/Cat (Run2).png
+  artifactKey: Guid(bd0ab1b225fa7c54a853180628965c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Cat (Run2).png using Guid(bd0ab1b225fa7c54a853180628965c35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e189fb4f7ab3f1e473efcb6cb450c6') in 0.059424 seconds
+  Import took 0.064569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.641042 seconds.
+  path: Assets/Assets/Cat (Run3).png
+  artifactKey: Guid(67eb96c864409054f83a9a95a2d43fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Cat (Run3).png using Guid(67eb96c864409054f83a9a95a2d43fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '026e6b6e1b8e1cf2abcbc39137145aa1') in 0.221269 seconds
+  Import took 0.229359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.102685 seconds.
+  path: Assets/Assets/Cat (Run4).png
+  artifactKey: Guid(9b9df45fc08e6fb47834438c77afcd9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Cat (Run4).png using Guid(9b9df45fc08e6fb47834438c77afcd9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53efc97d359113f1e7a6926bc10f7765') in 0.067952 seconds
+  Import took 0.081909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.560724 seconds.
+  path: Assets/Animations/Bad Dog.anim
+  artifactKey: Guid(1300bf9a5ed1e404a8275da3c73e4022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog.anim using Guid(1300bf9a5ed1e404a8275da3c73e4022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b97a7b8cd81416316858d3e0a19fffb') in 0.045019 seconds
+  Import took 0.049950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.889966 seconds.
+  path: Assets/Animations/Bad Dog.controller
+  artifactKey: Guid(f39fbd7a2f64d2c4586f9210cc7f19f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog.controller using Guid(f39fbd7a2f64d2c4586f9210cc7f19f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2eaee5782d9896de6426efc9bd49e741') in 0.038454 seconds
+  Import took 0.042986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.603181 seconds.
+  path: Assets/Animations/New Animation.anim
+  artifactKey: Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/New Animation.anim using Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beaaaf321c642c86503b41930252a99d') in 0.037756 seconds
+  Import took 0.044919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.767332 seconds.
+  path: Assets/Animations/Old/Bad Dog (Run1).controller
+  artifactKey: Guid(996613dc0a882db4cb95dff9c565ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Old/Bad Dog (Run1).controller using Guid(996613dc0a882db4cb95dff9c565ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29ff4a0cff2e4e4033b4c48dd5d3fe14') in 0.037218 seconds
+  Import took 0.043209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.457216 seconds.
+  path: Assets/Animations/Old/Bad Dog (old).controller
+  artifactKey: Guid(996613dc0a882db4cb95dff9c565ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Old/Bad Dog (old).controller using Guid(996613dc0a882db4cb95dff9c565ae5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470420ed988e92a349632583235df605') in 0.034215 seconds
+  Import took 0.039011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.103431 seconds.
+  path: Assets/Animations/Old/Bad Dog (old).anim
+  artifactKey: Guid(1300bf9a5ed1e404a8275da3c73e4022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Old/Bad Dog (old).anim using Guid(1300bf9a5ed1e404a8275da3c73e4022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '787c1ab79258119c5c1acc324e2d96ff') in 0.033645 seconds
+  Import took 0.040909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.989417 seconds.
+  path: Assets/Animations/Bad Dog.anim
+  artifactKey: Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog.anim using Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a5fc5b6a23f2d07975ad3ee7c70e4f') in 0.033166 seconds
+  Import took 0.040375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.802727 seconds.
+  path: Assets/Animations/Old/Cat Run (old).anim
+  artifactKey: Guid(99d8bf72b5915cc49ad7160ca6f8aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Old/Cat Run (old).anim using Guid(99d8bf72b5915cc49ad7160ca6f8aa27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11f4d8f6867b824eb55a6f265e083961') in 0.037843 seconds
+  Import took 0.042381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.490706 seconds.
+  path: Assets/Animations/Old/Cat Run (old).controller
+  artifactKey: Guid(bbcc024d318158141a5a265a535d8df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Old/Cat Run (old).controller using Guid(bbcc024d318158141a5a265a535d8df0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cfacb9aece6e0ee0fa657312eaf6e7d') in 0.035649 seconds
+  Import took 0.041596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.446064 seconds.
+  path: Assets/Animations/Bad Dogg.anim
+  artifactKey: Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dogg.anim using Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5023a4659a588caaf6bfa6fa4d50476') in 0.033651 seconds
+  Import took 0.041031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 121.803076 seconds.
+  path: Assets/Animations/Bad Dog (old).controller
+  artifactKey: Guid(f39fbd7a2f64d2c4586f9210cc7f19f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog (old).controller using Guid(f39fbd7a2f64d2c4586f9210cc7f19f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df0ef537f3a9ef20e01a3921e71ec6e3') in 0.031254 seconds
+  Import took 0.037312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.254954 seconds.
+  path: Assets/Animations/Bad Dog (old).anim
+  artifactKey: Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog (old).anim using Guid(dac4072f1fd97c34a837c29e148517a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12b2ec4bb439b75256dd69228d0d5ef') in 0.031397 seconds
+  Import took 0.040385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 148.905518 seconds.
+  path: Assets/Animations/Bad Dog (Run1).controller
+  artifactKey: Guid(701714ffb9b29534d97593862f52098e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog (Run1).controller using Guid(701714ffb9b29534d97593862f52098e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bc5c1aa1a548b4346c6fefab53f736') in 0.032352 seconds
+  Import took 0.036939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.558413 seconds.
+  path: Assets/Animations/Bad Dog.controller
+  artifactKey: Guid(701714ffb9b29534d97593862f52098e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Bad Dog.controller using Guid(701714ffb9b29534d97593862f52098e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441f6351321e45bea2bc46765a5d6478') in 0.032429 seconds
+  Import took 0.036844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.744129 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'ddde7283c85b9cf068583ab04dc22a26') in 0.139908 seconds
+  Import took 0.156464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.538131 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '35ded59f3266dced3adaf8f3ec39aa0e') in 0.053475 seconds
+  Import took 0.059994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.364113 seconds.
+  path: Assets/Assets/Bad Dog (Run1).png
+  artifactKey: Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run1).png using Guid(64b72ee2a5b896144a304ceeebb93923) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '281e42b547bef35addc7fcfc240201b1') in 0.053426 seconds
+  Import took 0.059367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.570200 seconds.
+  path: Assets/Assets/Bad Dog (Run2).png
+  artifactKey: Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run2).png using Guid(add044c9449d7924b8e0177071740324) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5087d949c236d69c78850a5c406aebde') in 0.055252 seconds
+  Import took 0.060708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.039343 seconds.
+  path: Assets/Assets/Bad Dog (Run3).png
+  artifactKey: Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run3).png using Guid(126094a3a4739f04e92840d12e3d47ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3b8232a579d5b4b61779f077a5f5fe') in 0.061707 seconds
+  Import took 0.067406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.514584 seconds.
+  path: Assets/Assets/Bad Dog (Run4).png
+  artifactKey: Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run4).png using Guid(423b4b4de21758b469250f60643e1a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5e4ca132acbeab5c732b0565d905b69') in 0.059445 seconds
+  Import took 0.064839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.769657 seconds.
+  path: Assets/Assets/Bad Dog (Run5).png
+  artifactKey: Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Bad Dog (Run5).png using Guid(c18dce52a7646e64d8a141df2bd57f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b5a2798e2ebf2d595de44fca1c73ec9') in 0.058626 seconds
+  Import took 0.065113 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.956498 seconds.
+  path: Assets/Assets/Box.png
+  artifactKey: Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Box.png using Guid(4baab0085b25bf744b3b55bdb8b109fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436c7b4a17654ab1ddd419626628245e') in 0.050542 seconds
+  Import took 0.059269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 35.207099 seconds.
+  path: Assets/Assets/Background.png
+  artifactKey: Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Background.png using Guid(5a2c048ad73cf5f4b8c3710b87e808a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '130f3c8440e4f57186c374a222c0d50a') in 0.054374 seconds
+  Import took 0.061080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.395606 seconds.
+  path: Assets/Assets/Foreground.png
+  artifactKey: Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Foreground.png using Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3bda25ba54d814ec104b566097c834') in 0.050719 seconds
+  Import took 0.055663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.369237 seconds.
+  path: Assets/Assets/Old/Box2.0 (old).png
+  artifactKey: Guid(20a4b06f8e6bf2e4b967dc3212f3be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Box2.0 (old).png using Guid(20a4b06f8e6bf2e4b967dc3212f3be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e742f877dc670b2afd4605914cf5614') in 0.051575 seconds
+  Import took 0.056283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.833014 seconds.
+  path: Assets/Assets/Old/Background2.0 (old).png
+  artifactKey: Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Background2.0 (old).png using Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db76cea700067aa23101cf95d4b3e32e') in 0.060572 seconds
+  Import took 0.073848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.727288 seconds.
+  path: Assets/Assets/Foreground.png
+  artifactKey: Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Foreground.png using Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e7c4ff7f8927df27885115c5295716b') in 0.048916 seconds
+  Import took 0.053873 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.491954 seconds.
+  path: Assets/Assets/Foreground.png
+  artifactKey: Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Foreground.png using Guid(61fed83e7014b344c9f90a3d58b8992f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5183f0a5dd5cd28d8cc6dfe4cd04b615') in 0.051058 seconds
+  Import took 0.060945 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001703 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.451 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 3.359100 ms (FindLiveObjects: 0.512300 ms CreateObjectMapping: 0.402000 ms MarkObjects: 2.417200 ms  DeleteObjects: 0.026000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 160.982480 seconds.
+  path: Assets/Assets/Old/Background2.0 (old).png
+  artifactKey: Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Background2.0 (old).png using Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82237c064fb5e976be2434b365fc66fc') in 0.118587 seconds
+  Import took 0.123663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run3) (old).png
+  artifactKey: Guid(1898bd397720c374aaff681704032ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run3) (old).png using Guid(1898bd397720c374aaff681704032ef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cd4d7ed9b0b6f688c2c8f03cb32ff6b') in 0.040912 seconds
+  Import took 0.052290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Assets/Old/Background2.0 (old).png
+  artifactKey: Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Background2.0 (old).png using Guid(0c824a22e165f2140ab89b0e789b6bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82237c064fb5e976be2434b365fc66fc') in 0.048959 seconds
+  Import took 0.053487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run2) (old).png
+  artifactKey: Guid(33e378656be80e7409048b5f92c93281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run2) (old).png using Guid(33e378656be80e7409048b5f92c93281) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4900e19a8b7f7ccf9640b41865c6586') in 0.057133 seconds
+  Import took 0.062137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000505 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run1) (old).png
+  artifactKey: Guid(2d64a564841a09941807748de1c6ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run1) (old).png using Guid(2d64a564841a09941807748de1c6ca8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e50f677bcb6511d76a005b51fe8169e') in 0.042685 seconds
+  Import took 0.049805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.247220 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(d223d21d1fd1ba24f9457903bbad09af) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'b6479c7da06fe3acf198f2efdf036003') in 0.088073 seconds
+  Import took 0.092756 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001888 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.275 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2363.
+Total: 2.438200 ms (FindLiveObjects: 0.261800 ms CreateObjectMapping: 0.155200 ms MarkObjects: 2.002500 ms  DeleteObjects: 0.017800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 44.213642 seconds.
+  path: Assets/Prefabs/Dog (Enemy) 1.prefab
+  artifactKey: Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy) 1.prefab using Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: 'a63585ed7302e1f98bce421aacc5f824') in 0.097505 seconds
+  Import took 0.102095 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.649834 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '25d3b07d5c2196f8d4169e2388f15b90') in 0.043386 seconds
+  Import took 0.053416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.255688 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run5) (old).png
+  artifactKey: Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run5) (old).png using Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b915518bac2fb94de12760581f1b76f1') in 0.071890 seconds
+  Import took 0.078159 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Assets/Old/Box2.0 (old).png
+  artifactKey: Guid(20a4b06f8e6bf2e4b967dc3212f3be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Box2.0 (old).png using Guid(20a4b06f8e6bf2e4b967dc3212f3be08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661382329e49f7b7664ced0fdbdd7f73') in 0.048898 seconds
+  Import took 0.059071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run5) (old).png
+  artifactKey: Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run5) (old).png using Guid(59c777d9f846ac44392f8c74179085fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b915518bac2fb94de12760581f1b76f1') in 0.042807 seconds
+  Import took 0.046995 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.455584 seconds.
+  path: Assets/Assets/Old/Bad Dog (Run4) (old).png
+  artifactKey: Guid(385dafd23f000c041bffab1b54eac903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/Old/Bad Dog (Run4) (old).png using Guid(385dafd23f000c041bffab1b54eac903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10ad22c8f18e447eb07dfba8d4fdea93') in 0.062476 seconds
+  Import took 0.069570 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004001 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.358 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.4 MB.
+System memory in use after: 89.5 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2367.
+Total: 3.769200 ms (FindLiveObjects: 0.587600 ms CreateObjectMapping: 0.157700 ms MarkObjects: 3.003600 ms  DeleteObjects: 0.018700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 2.494999 seconds.
+  path: Assets/Prefabs/Box.prefab
+  artifactKey: Guid(4addc598e468d2d4bbeccdc787a2a70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Box.prefab using Guid(4addc598e468d2d4bbeccdc787a2a70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f3259c175f1b025dfc49d496b782f59') in 0.071873 seconds
+  Import took 0.076100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.597790 seconds.
+  path: Assets/Prefabs/Box 1.prefab
+  artifactKey: Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Box 1.prefab using Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254941433785b27adab68ced2ac973df') in 0.056644 seconds
+  Import took 0.062203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005077 seconds.
+  path: Assets/Prefabs/Box 1.prefab
+  artifactKey: Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Box 1.prefab using Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '254941433785b27adab68ced2ac973df') in 0.065120 seconds
+  Import took 0.073075 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.926389 seconds.
+  path: Assets/Prefabs/Box.prefab
+  artifactKey: Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Box.prefab using Guid(92a6874fda1c81d41bd2c59715589ae7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f939d65cfa7df064a343e17c0323f973') in 0.028554 seconds
+  Import took 0.033512 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006382 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.098 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 11.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2371.
+Total: 8.401800 ms (FindLiveObjects: 0.450500 ms CreateObjectMapping: 0.297500 ms MarkObjects: 7.614300 ms  DeleteObjects: 0.036000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 106.209661 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '9a5591658269ebb5c2ce5e9a8c87da29') in 0.117189 seconds
+  Import took 0.122144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.421584 seconds.
+  path: Assets/Prefabs/Dog (Enemy).prefab
+  artifactKey: Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Dog (Enemy).prefab using Guid(83a7e90ab8339c24d9daf337a4fb6b0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (Bad Dog (Run1)) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '5c2daf301c4b3890a82a9fbd5a71e90a') in 0.039623 seconds
+  Import took 0.091674 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002239 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.80 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.516 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2375.
+Total: 2.105400 ms (FindLiveObjects: 0.203100 ms CreateObjectMapping: 0.074400 ms MarkObjects: 1.806800 ms  DeleteObjects: 0.019800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001639 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.523 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1853 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.5 MB.
+System memory in use after: 89.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2378.
+Total: 2.588500 ms (FindLiveObjects: 0.265000 ms CreateObjectMapping: 0.157900 ms MarkObjects: 2.144800 ms  DeleteObjects: 0.019300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
