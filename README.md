@@ -1,7 +1,7 @@
 # Cat-Runners
  
 ### ⚠️ Disclaimer: "The Learning Curve"
-Dies ist eines meiner ersten Projekte aus dem Jahr 2021. Der Code ist nach heutigen Maßstäben unordentlich und nicht nach dem SOLID-Prinzip aufgebaut. 
+Dies ist eines meiner ersten Projekte aus dem Jahr 2021. Der Code ist nach heutigen Maßstäben unordentlich und völlig unübersichtlich (selbst für mich als originalen Verfasser) aufgebaut. 
 
 **Warum ich es trotzdem zeige?**
 * **Proof of Concept:** Es war mein Einstieg in C# und die Unity Engine.
